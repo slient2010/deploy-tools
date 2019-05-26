@@ -1,0 +1,8 @@
+keys: "xxxxx"
+servers:
+  app-server:
+    hostname: "172.17.0.1"
+  nginx-server:
+    hostname: "172.17.0.1"
+  tmp-server:
+    hostname: "172.17.0.1"
